@@ -33,7 +33,7 @@
 | Project | Summary | Stack |
 |--------|---------|-------|
 | [Forecasting Bus Lateness](https://github.com/hml230/exploring-lateness) | Traffic regression and transformer-based lateness prediction using NSW bus logs and cyclical time encoding | `PyTorch`, `ChronosT5`, `PySpark`, `Seaborn` |
-| [Precdictive Analysis of Australian Maximum Temperature](https://github.com/hml230/maxtemp-spatial-modelling) | A spatial statistics analysis of Australian climate data | `R`, `raster`, `FRK`, `GpGp`|
+| [Predictive Analysis of Australian Maximum Temperature](https://github.com/hml230/maxtemp-spatial-modelling) | A spatial statistics analysis of Australian climate data | `R`, `raster`, `FRK`, `GpGp`|
 | [Simple-Nets](https://github.com/hml230/simple-nets) | Lightweight tabular classifiers built in PyTorch | `PyTorch`, `PySpark MLlib`|
 | [RAG Paper Recommender](https://github.com/hml230/rag-agent-vera) | Local RAG system using LangGraph + Mistral to recommend research papers | `LangChain`, `LangGraph`, `MongoDB`, `MistralAI` |
 
