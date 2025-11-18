@@ -16,8 +16,7 @@
 
 - 🔬 Currently exploring topics in **timeseries forecasting**, **geostatistics**, and **agentic AI workflows**
 
-- 🎨 Occasionally dabble in Blender and generative visuals
-
+- 🎨 Occasionally dabble in Blender
 ---
 
 🧠 **What I’m Working On**
